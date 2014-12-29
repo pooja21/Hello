@@ -1,0 +1,8 @@
+F:\ConApp\ConAppvb\ConAppvb\obj\x86\Debug\ConAppvb.Resources.resources
+F:\ConApp\ConAppvb\ConAppvb\obj\x86\Debug\ConAppvb.vbproj.GenerateResource.Cache
+F:\ConApp\ConAppvb\ConAppvb\bin\Debug\ConAppvb.exe
+F:\ConApp\ConAppvb\ConAppvb\bin\Debug\ConAppvb.pdb
+F:\ConApp\ConAppvb\ConAppvb\bin\Debug\ConAppvb.xml
+F:\ConApp\ConAppvb\ConAppvb\obj\x86\Debug\ConAppvb.exe
+F:\ConApp\ConAppvb\ConAppvb\obj\x86\Debug\ConAppvb.xml
+F:\ConApp\ConAppvb\ConAppvb\obj\x86\Debug\ConAppvb.pdb

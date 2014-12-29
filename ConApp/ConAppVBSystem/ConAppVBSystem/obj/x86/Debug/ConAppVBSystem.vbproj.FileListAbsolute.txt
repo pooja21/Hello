@@ -1,0 +1,8 @@
+F:\ConApp\ConAppVBSystem\ConAppVBSystem\bin\Debug\ConAppVBSystem.exe
+F:\ConApp\ConAppVBSystem\ConAppVBSystem\bin\Debug\ConAppVBSystem.pdb
+F:\ConApp\ConAppVBSystem\ConAppVBSystem\bin\Debug\ConAppVBSystem.xml
+F:\ConApp\ConAppVBSystem\ConAppVBSystem\obj\x86\Debug\ConAppVBSystem.Resources.resources
+F:\ConApp\ConAppVBSystem\ConAppVBSystem\obj\x86\Debug\ConAppVBSystem.vbproj.GenerateResource.Cache
+F:\ConApp\ConAppVBSystem\ConAppVBSystem\obj\x86\Debug\ConAppVBSystem.exe
+F:\ConApp\ConAppVBSystem\ConAppVBSystem\obj\x86\Debug\ConAppVBSystem.xml
+F:\ConApp\ConAppVBSystem\ConAppVBSystem\obj\x86\Debug\ConAppVBSystem.pdb

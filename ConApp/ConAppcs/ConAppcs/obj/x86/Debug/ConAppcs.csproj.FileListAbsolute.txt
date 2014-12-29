@@ -1,0 +1,4 @@
+F:\ConApp\ConAppcs\ConAppcs\bin\Debug\ConAppcs.exe
+F:\ConApp\ConAppcs\ConAppcs\bin\Debug\ConAppcs.pdb
+F:\ConApp\ConAppcs\ConAppcs\obj\x86\Debug\ConAppcs.exe
+F:\ConApp\ConAppcs\ConAppcs\obj\x86\Debug\ConAppcs.pdb

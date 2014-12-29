@@ -1,0 +1,8 @@
+F:\ConApp\ConAppTryCatch\ConAppTryCatch\bin\Debug\ConAppTryCatch.exe
+F:\ConApp\ConAppTryCatch\ConAppTryCatch\bin\Debug\ConAppTryCatch.pdb
+F:\ConApp\ConAppTryCatch\ConAppTryCatch\bin\Debug\ConAppTryCatch.xml
+F:\ConApp\ConAppTryCatch\ConAppTryCatch\obj\x86\Debug\ConAppTryCatch.Resources.resources
+F:\ConApp\ConAppTryCatch\ConAppTryCatch\obj\x86\Debug\ConAppTryCatch.vbproj.GenerateResource.Cache
+F:\ConApp\ConAppTryCatch\ConAppTryCatch\obj\x86\Debug\ConAppTryCatch.exe
+F:\ConApp\ConAppTryCatch\ConAppTryCatch\obj\x86\Debug\ConAppTryCatch.xml
+F:\ConApp\ConAppTryCatch\ConAppTryCatch\obj\x86\Debug\ConAppTryCatch.pdb
